@@ -1,0 +1,19 @@
+{
+  "name": "docs.canopi.com.au",
+  "version": "0.0.1",
+  "description": "Documentation to enable learning DX",
+  "main": "index.js",
+  "authors": {
+    "name": "Canopi Online",
+    "email": "support@canopi.com.au"
+  },
+  "repository": "https://github.com/Canopi-Online/docs.canopi.com.au/docs.canopi.com.au",
+  "scripts": {
+    "dev": "vuepress dev src",
+    "build": "vuepress build src"
+  },
+  "license": "MIT",
+  "devDependencies": {
+    "vuepress": "^1.5.3"
+  }
+}
