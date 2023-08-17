@@ -27,9 +27,9 @@ module.exports = {
    * ref：https://v1.vuepress.vuejs.org/theme/default-theme-config.html
    */
   themeConfig: {
-    repo: '',
+    repo: 'https://github.com/Canopi-Online/docs.canopi.com.au',
     editLinks: false,
-    docsDir: '',
+    docsDir: '/',
     editLinkText: '',
     lastUpdated: false,
     nav: [
