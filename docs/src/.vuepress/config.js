@@ -4,7 +4,7 @@ module.exports = {
   /**
    * Ref：https://v1.vuepress.vuejs.org/config/#title
    */
-  title: 'Vuepress Docs Boilerplate',
+  title: 'Canopi Docs',
   /**
    * Ref：https://v1.vuepress.vuejs.org/config/#description
    */
@@ -34,26 +34,28 @@ module.exports = {
     lastUpdated: false,
     nav: [
       {
-        text: 'Guide',
-        link: '/guide/',
+        text: 'Janison',
+        link: '/janison/',
       },
       {
-        text: 'Config',
-        link: '/config/'
+        text: 'Dovetail',
+        link: '/dovetail/'
       },
       {
-        text: 'VuePress',
-        link: 'https://v1.vuepress.vuejs.org'
+        text: 'Canopi Online',
+        link: 'https://www.canopi.com.au'
       }
     ],
     sidebar: {
-      '/guide/': [
+      '/janison/': [
         {
-          title: 'Guide',
+          title: 'Janison CLS',
           collapsable: false,
           children: [
             '',
-            'using-vue',
+            'authentication',
+            'report-api',
+            'enrolment-api',
           ]
         }
       ],

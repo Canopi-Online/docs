@@ -1,15 +1,4 @@
----
-home: true
-heroImage: https://v1.vuepress.vuejs.org/hero.png
-tagline: Documentation to enable learning DX
-actionText: Quick Start →
-actionLink: /guide/
-features:
-- title: Feature 1 Title
-  details: Feature 1 Description
-- title: Feature 2 Title
-  details: Feature 2 Description
-- title: Feature 3 Title
-  details: Feature 3 Description
-footer: Made by Canopi Online with ❤️
----
+# Content
+
+## [Janison CLS API Documentation](/janison/)
+All documentation Canopi Online has collected and adapted to NodeJS for the Janison CLS System.

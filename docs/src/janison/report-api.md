@@ -1,4 +1,4 @@
-# Using Vue in Markdown
+# Reporting API
 
 ## Browser API Access Restrictions
 
